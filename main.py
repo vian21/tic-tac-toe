@@ -5,7 +5,7 @@ window = Tk()
 window.title("Tic Tac Toe")
 window.geometry("290x300")
 
-# array
+# array 
 board = [
     [0, 0, 0],
     [0, 0, 0],
